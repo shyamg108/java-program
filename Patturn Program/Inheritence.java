@@ -45,7 +45,7 @@ class Inheritence
      }
 
   public static void main(String args[])
-     {
+   {
         Student  s1= new Student();
         s1.setName("Shyam");
         s1.setAge(23);
@@ -55,6 +55,6 @@ class Inheritence
         System.out.println("Student Age:-"+s1.getAge());
         System.out.println("Student name:-"+s1.getrollno());
         System.out.println("Student name:-"+s1.getstream());
-     }
+    }
 }
 
