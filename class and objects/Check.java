@@ -16,7 +16,7 @@ public static void prime()
   int  count=1;
    Scanner num=new Scanner(System.in);
    System.out.println("Enter any number:-");
-   n=num.nextInt();
+   n=num .nextInt();
    for(int i=1;i<=n;i++)
    {
     if(n%i==0)
