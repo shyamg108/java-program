@@ -1,7 +1,5 @@
 import java.util.*;
-class Inheritence 
-{
-    class Person
+ class Person
     {
         private int age;
         private String name;
@@ -43,7 +41,8 @@ class Inheritence
             return(stream);
         }
      }
-
+class Inheritence 
+{
   public static void main(String args[])
    {
         Student  s1= new Student();
